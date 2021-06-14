@@ -121,7 +121,12 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=l_xvLm_ko60&ab_channel=guillez10guillez10"
+                 "value":"https:\/\/www.youtube.com\/embed\/l_xvLm_ko60"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
